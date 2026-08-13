@@ -1,5 +1,7 @@
 # Autonomous Aerial Robotics — PX4 + ROS 2 + Gazebo
 
+## - PX4 SITL,  ROS 2 Humble,  MAVROS, Gazebo Classic, OpenCV, LiDAR, RGB-D Vision, Unity3D
+
 **Author:** Md. Rafiqul Islam | Bangladesh University of Textiles (BUTEX)  
 **Period:** August 2026 – Present
 
