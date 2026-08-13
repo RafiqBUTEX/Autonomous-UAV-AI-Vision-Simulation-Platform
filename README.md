@@ -1,5 +1,8 @@
 # Autonomous Aerial Robotics — PX4 + ROS 2 + Gazebo
 
+**Author:** Md. Rafiqul Islam | Bangladesh University of Textiles (BUTEX)  
+**Period:** August 2026 – Present
+
 An autonomous quadrotor stack built on **PX4 SITL**, **Gazebo Classic 11**, **MAVROS**, and **ROS 2 Humble**, with a custom multi-sensor drone (forward depth camera, downward-facing camera, 2D LiDAR) and a ROS 2 offboard control node for autonomous flight. The project is extending into obstacle-aware navigation, SLAM, reinforcement learning, and a computer-vision payload for real-world applications such as precision agriculture, search & rescue, and environmental monitoring.
 
 ![System Architecture](architecture_diagram.png)
